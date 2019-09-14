@@ -1,5 +1,11 @@
 # Bookmarks
 
+# Version Control
+
+## Git
+
+- https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/
+
 # .NET
 
 ## Task Parallel Library
