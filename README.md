@@ -13,3 +13,9 @@
 `tpl` `async/await`
 
 - https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async
+
+## Performance
+
+`benchmark` `optimization`
+
+- https://www.youtube.com/watch?v=NVWQRbqcXJ4
