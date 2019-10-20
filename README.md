@@ -19,3 +19,9 @@
 `benchmark` `optimization`
 
 - https://www.youtube.com/watch?v=NVWQRbqcXJ4
+
+## Misc.
+
+### Podcasts
+
+- Command Line Heroes https://www.redhat.com/en/command-line-heroes
