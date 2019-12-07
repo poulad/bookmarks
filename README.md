@@ -20,6 +20,10 @@
 
 - https://www.youtube.com/watch?v=NVWQRbqcXJ4
 
+## Methodology
+
+- https://changelog.com/podcast/367
+
 ## Misc.
 
 ### Podcasts
