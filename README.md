@@ -22,10 +22,12 @@
 
 ## Methodology
 
-- https://changelog.com/podcast/367
+- Book [Clean Agile: Back to Basics](https://www.oreilly.com/library/view/clean-agile-back/9780135782002/)
+  - Podcast [Back to Agile's basics with _Uncle Bob_ Martin](https://changelog.com/podcast/367)
 
 ## Misc.
 
 ### Podcasts
 
+- The Changelog https://changelog.com/podcast
 - Command Line Heroes https://www.redhat.com/en/command-line-heroes
